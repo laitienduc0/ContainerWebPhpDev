@@ -8,7 +8,7 @@ function sayHello($name) {
 
 <html>
 	<head>
-		<title>Advanced Web Development K15-N03</title>
+		<title>okok</title>
 	</head>
 	<body>
 		<?php 
